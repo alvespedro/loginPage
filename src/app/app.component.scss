@@ -1,0 +1,18 @@
+.main-content{
+    background: #333;
+    height: 100vh;
+    overflow: auto;
+    // overflow-y: hidden; // hide vertical
+    // overflow-x: hidden;
+    background-image: linear-gradient(45deg,#edd5d9,#d47e86);
+    font-family: 'Montserrat', sans-serif;
+
+}
+
+.message-container{
+    display: flex;
+    justify-content: center;
+    color:white;
+    font-size:30px;
+    margin-top: 12.5rem;
+}
